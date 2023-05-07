@@ -1,0 +1,456 @@
+"time","name","observation","table","plant","comment"
+"2023-03-23 09:57:35","Katja","Verkrüppelte Blätter","Tisch 4","B6",NA
+"2023-03-27 14:48:04","Julian","liegende Pflanze","Tisch 4","A8",NA
+"2023-03-27 14:48:04","Julian","liegende Pflanze","Tisch 4","C8",NA
+"2023-03-27 14:48:04","Julian","liegende Pflanze","Tisch 4","D2",NA
+"2023-03-27 14:48:04","Julian","liegende Pflanze","Tisch 4","E8",NA
+"2023-03-27 14:48:04","Julian","liegende Pflanze","Tisch 4","H3",NA
+"2023-03-27 14:48:04","Julian","liegende Pflanze","Tisch 4","H6",NA
+"2023-03-27 14:51:32","Julian","Flecken auf den Blättern","Tisch 6","A9",NA
+"2023-03-27 14:51:32","Julian","Flecken auf den Blättern","Tisch 6","C1",NA
+"2023-03-27 14:51:32","Julian","Flecken auf den Blättern","Tisch 6","D2",NA
+"2023-03-27 14:51:32","Julian","Flecken auf den Blättern","Tisch 6","D3",NA
+"2023-03-27 14:51:32","Julian","Flecken auf den Blättern","Tisch 6","E9",NA
+"2023-03-27 14:51:32","Julian","Flecken auf den Blättern","Tisch 6","F5",NA
+"2023-03-27 14:53:25","Julian","Fressschaden","Tisch 6","A2",NA
+"2023-03-27 14:53:25","Julian","Fressschaden","Tisch 6","A6",NA
+"2023-03-27 14:53:25","Julian","Fressschaden","Tisch 6","A9",NA
+"2023-03-27 14:53:25","Julian","Fressschaden","Tisch 6","B5",NA
+"2023-03-27 14:53:25","Julian","Fressschaden","Tisch 6","C2",NA
+"2023-03-27 14:53:25","Julian","Fressschaden","Tisch 6","G4",NA
+"2023-03-27 14:53:25","Julian","Fressschaden","Tisch 6","G6",NA
+"2023-03-27 14:54:34","Julian","Flecken auf den Blättern","Tisch 5","A9",NA
+"2023-03-27 14:54:34","Julian","Flecken auf den Blättern","Tisch 5","H1",NA
+"2023-03-27 14:54:34","Julian","Flecken auf den Blättern","Tisch 5","H6",NA
+"2023-03-27 14:55:58","Julian","Fressschaden","Tisch 5","A1",NA
+"2023-03-27 14:55:58","Julian","Fressschaden","Tisch 5","A5",NA
+"2023-03-27 14:55:58","Julian","Fressschaden","Tisch 5","A6",NA
+"2023-03-27 14:55:58","Julian","Fressschaden","Tisch 5","A9",NA
+"2023-03-27 14:55:58","Julian","Fressschaden","Tisch 5","B2",NA
+"2023-03-27 14:55:58","Julian","Fressschaden","Tisch 5","B3",NA
+"2023-03-27 14:55:58","Julian","Fressschaden","Tisch 5","B4",NA
+"2023-03-27 14:55:58","Julian","Fressschaden","Tisch 5","B6",NA
+"2023-03-27 14:55:58","Julian","Fressschaden","Tisch 5","C2",NA
+"2023-03-27 14:55:58","Julian","Fressschaden","Tisch 5","G3",NA
+"2023-03-27 14:55:58","Julian","Fressschaden","Tisch 5","G5",NA
+"2023-03-27 14:55:58","Julian","Fressschaden","Tisch 5","H4",NA
+"2023-03-27 14:57:36","Julian","Fressschaden","Tisch 7","A4",NA
+"2023-03-27 14:57:36","Julian","Fressschaden","Tisch 7","A9",NA
+"2023-03-27 14:57:36","Julian","Fressschaden","Tisch 7","D1",NA
+"2023-03-27 14:57:36","Julian","Fressschaden","Tisch 7","F5",NA
+"2023-03-27 14:57:36","Julian","Fressschaden","Tisch 7","G5",NA
+"2023-03-27 14:57:36","Julian","Fressschaden","Tisch 7","H4",NA
+"2023-03-27 14:58:32","Julian","Flecken auf den Blättern","Tisch 7","A9",NA
+"2023-03-27 14:58:32","Julian","Flecken auf den Blättern","Tisch 7","C4",NA
+"2023-03-27 14:58:32","Julian","Flecken auf den Blättern","Tisch 7","D1",NA
+"2023-03-27 14:58:32","Julian","Flecken auf den Blättern","Tisch 7","H1",NA
+"2023-03-27 14:59:09","Julian","Flecken auf den Blättern","Tisch 8","A9",NA
+"2023-03-27 14:59:09","Julian","Flecken auf den Blättern","Tisch 8","D4",NA
+"2023-03-27 14:59:09","Julian","Flecken auf den Blättern","Tisch 8","E5",NA
+"2023-03-27 14:59:09","Julian","Flecken auf den Blättern","Tisch 8","H1",NA
+"2023-03-27 14:59:56","Julian","Fressschaden","Tisch 8","A1",NA
+"2023-03-27 14:59:56","Julian","Fressschaden","Tisch 8","A9",NA
+"2023-03-27 14:59:56","Julian","Fressschaden","Tisch 8","B1",NA
+"2023-03-27 14:59:56","Julian","Fressschaden","Tisch 8","B2",NA
+"2023-03-27 14:59:56","Julian","Fressschaden","Tisch 8","E1",NA
+"2023-03-27 14:59:56","Julian","Fressschaden","Tisch 8","F3",NA
+"2023-03-27 14:59:56","Julian","Fressschaden","Tisch 8","H1",NA
+"2023-03-27 15:03:47","Julian","weisse Punkte","Tisch 9","A2",NA
+"2023-03-27 15:03:47","Julian","weisse Punkte","Tisch 9","A3",NA
+"2023-03-27 15:03:47","Julian","weisse Punkte","Tisch 9","A4",NA
+"2023-03-27 15:03:47","Julian","weisse Punkte","Tisch 9","A5",NA
+"2023-03-27 15:03:47","Julian","weisse Punkte","Tisch 9","A6",NA
+"2023-03-27 15:03:47","Julian","weisse Punkte","Tisch 9","A9",NA
+"2023-03-27 15:03:47","Julian","weisse Punkte","Tisch 9","B1",NA
+"2023-03-27 15:03:47","Julian","weisse Punkte","Tisch 9","B2",NA
+"2023-03-27 15:03:47","Julian","weisse Punkte","Tisch 9","B3",NA
+"2023-03-27 15:03:47","Julian","weisse Punkte","Tisch 9","B4",NA
+"2023-03-27 15:03:47","Julian","weisse Punkte","Tisch 9","B5",NA
+"2023-03-27 15:03:47","Julian","weisse Punkte","Tisch 9","B6",NA
+"2023-03-27 15:03:47","Julian","weisse Punkte","Tisch 9","B7",NA
+"2023-03-27 15:03:47","Julian","weisse Punkte","Tisch 9","C1",NA
+"2023-03-27 15:03:47","Julian","weisse Punkte","Tisch 9","C3",NA
+"2023-03-27 15:03:47","Julian","weisse Punkte","Tisch 9","C4",NA
+"2023-03-27 15:03:47","Julian","weisse Punkte","Tisch 9","C5",NA
+"2023-03-27 15:03:47","Julian","weisse Punkte","Tisch 9","C6",NA
+"2023-03-27 15:03:47","Julian","weisse Punkte","Tisch 9","C7",NA
+"2023-03-27 15:03:47","Julian","weisse Punkte","Tisch 9","D1",NA
+"2023-03-27 15:03:47","Julian","weisse Punkte","Tisch 9","D5",NA
+"2023-03-27 15:03:47","Julian","weisse Punkte","Tisch 9","D7",NA
+"2023-03-27 15:03:47","Julian","weisse Punkte","Tisch 9","E3",NA
+"2023-03-27 15:03:47","Julian","weisse Punkte","Tisch 9","E4",NA
+"2023-03-27 15:03:47","Julian","weisse Punkte","Tisch 9","E6",NA
+"2023-03-27 15:03:47","Julian","weisse Punkte","Tisch 9","F4",NA
+"2023-03-27 15:03:47","Julian","weisse Punkte","Tisch 9","G4",NA
+"2023-03-27 15:03:47","Julian","weisse Punkte","Tisch 9","G7",NA
+"2023-03-27 15:03:47","Julian","weisse Punkte","Tisch 9","H1",NA
+"2023-03-27 15:03:47","Julian","weisse Punkte","Tisch 9","H3",NA
+"2023-03-27 15:03:47","Julian","weisse Punkte","Tisch 9","H7",NA
+"2023-04-03 12:00:54","Julian","liegende Pflanze","Tisch 3","F4",NA
+"2023-04-03 12:02:42","Julian","Frassschaden","Tisch 4","C1",NA
+"2023-04-03 12:02:42","Julian","Frassschaden","Tisch 4","C7",NA
+"2023-04-03 12:02:42","Julian","Frassschaden","Tisch 4","D2",NA
+"2023-04-03 12:02:42","Julian","Frassschaden","Tisch 4","G6",NA
+"2023-04-03 12:06:22","Julian","Frassschaden","Tisch 8","A1",NA
+"2023-04-03 12:06:22","Julian","Frassschaden","Tisch 8","A3",NA
+"2023-04-03 12:06:22","Julian","Frassschaden","Tisch 8","B1",NA
+"2023-04-03 12:06:22","Julian","Frassschaden","Tisch 8","B2",NA
+"2023-04-03 12:06:22","Julian","Frassschaden","Tisch 8","C7",NA
+"2023-04-03 12:06:22","Julian","Frassschaden","Tisch 8","E1",NA
+"2023-04-03 12:06:22","Julian","Frassschaden","Tisch 8","F3",NA
+"2023-04-03 12:06:22","Julian","Frassschaden","Tisch 8","G6",NA
+"2023-04-03 12:10:09","Julian","Frassschaden","Tisch 7","A4",NA
+"2023-04-03 12:10:09","Julian","Frassschaden","Tisch 7","C7",NA
+"2023-04-03 12:10:09","Julian","Frassschaden","Tisch 7","G3",NA
+"2023-04-03 12:10:09","Julian","Frassschaden","Tisch 7","G5",NA
+"2023-04-03 12:10:09","Julian","Frassschaden","Tisch 7","H4",NA
+"2023-04-03 12:11:54","Julian","Flecken auf den Blättern","Tisch 7","C4",NA
+"2023-04-03 12:11:54","Julian","Flecken auf den Blättern","Tisch 7","G3",NA
+"2023-04-03 12:11:54","Julian","Flecken auf den Blättern","Tisch 7","H1",NA
+"2023-04-03 12:15:07","Julian","Frassschaden","Tisch 6","A2",NA
+"2023-04-03 12:15:07","Julian","Frassschaden","Tisch 6","A3",NA
+"2023-04-03 12:15:07","Julian","Frassschaden","Tisch 6","A6",NA
+"2023-04-03 12:15:07","Julian","Frassschaden","Tisch 6","A9",NA
+"2023-04-03 12:15:07","Julian","Frassschaden","Tisch 6","B5",NA
+"2023-04-03 12:15:07","Julian","Frassschaden","Tisch 6","B6",NA
+"2023-04-03 12:15:07","Julian","Frassschaden","Tisch 6","B8",NA
+"2023-04-03 12:15:07","Julian","Frassschaden","Tisch 6","F1",NA
+"2023-04-03 12:15:07","Julian","Frassschaden","Tisch 6","F3",NA
+"2023-04-03 12:15:07","Julian","Frassschaden","Tisch 6","F4",NA
+"2023-04-03 12:15:07","Julian","Frassschaden","Tisch 6","F5",NA
+"2023-04-03 12:15:07","Julian","Frassschaden","Tisch 6","F6",NA
+"2023-04-03 12:15:07","Julian","Frassschaden","Tisch 6","G1",NA
+"2023-04-03 12:15:07","Julian","Frassschaden","Tisch 6","G2",NA
+"2023-04-03 12:15:07","Julian","Frassschaden","Tisch 6","G3",NA
+"2023-04-03 12:15:07","Julian","Frassschaden","Tisch 6","G4",NA
+"2023-04-03 12:15:07","Julian","Frassschaden","Tisch 6","G5",NA
+"2023-04-03 12:15:07","Julian","Frassschaden","Tisch 6","G6",NA
+"2023-04-03 12:15:07","Julian","Frassschaden","Tisch 6","G8",NA
+"2023-04-03 12:15:07","Julian","Frassschaden","Tisch 6","H1",NA
+"2023-04-03 12:15:07","Julian","Frassschaden","Tisch 6","H2",NA
+"2023-04-03 12:15:07","Julian","Frassschaden","Tisch 6","H4",NA
+"2023-04-03 12:15:07","Julian","Frassschaden","Tisch 6","H7",NA
+"2023-04-03 12:15:07","Julian","Frassschaden","Tisch 6","H9",NA
+"2023-04-03 12:15:26","Julian","Flecken auf den Blättern","Tisch 6","G5",NA
+"2023-04-03 12:17:50","Julian","Frassschaden","Tisch 5","A1",NA
+"2023-04-03 12:17:50","Julian","Frassschaden","Tisch 5","A3",NA
+"2023-04-03 12:17:50","Julian","Frassschaden","Tisch 5","A4",NA
+"2023-04-03 12:17:50","Julian","Frassschaden","Tisch 5","A5",NA
+"2023-04-03 12:17:50","Julian","Frassschaden","Tisch 5","B2",NA
+"2023-04-03 12:17:50","Julian","Frassschaden","Tisch 5","B3",NA
+"2023-04-03 12:17:50","Julian","Frassschaden","Tisch 5","B5",NA
+"2023-04-03 12:17:50","Julian","Frassschaden","Tisch 5","B6",NA
+"2023-04-03 12:17:50","Julian","Frassschaden","Tisch 5","C1",NA
+"2023-04-03 12:17:50","Julian","Frassschaden","Tisch 5","C3",NA
+"2023-04-03 12:17:50","Julian","Frassschaden","Tisch 5","G1",NA
+"2023-04-03 12:17:50","Julian","Frassschaden","Tisch 5","G5",NA
+"2023-04-03 12:17:50","Julian","Frassschaden","Tisch 5","H4",NA
+"2023-04-06 09:55:09","Katja","Loch / Riss im Blatt","Tisch 4","D2",NA
+"2023-04-06 09:59:57","Katja","neue Jungpflanze","Tisch 2","B2",NA
+"2023-04-06 10:01:07","Katja","neue Jungpflanze","Tisch 2","B3",NA
+"2023-04-06 10:01:07","Katja","neue Jungpflanze","Tisch 2","B4",NA
+"2023-04-06 10:01:07","Katja","neue Jungpflanze","Tisch 2","B5",NA
+"2023-04-06 10:01:07","Katja","neue Jungpflanze","Tisch 2","B6",NA
+"2023-04-06 10:01:07","Katja","neue Jungpflanze","Tisch 2","C2",NA
+"2023-04-06 10:01:07","Katja","neue Jungpflanze","Tisch 2","C3",NA
+"2023-04-06 10:01:07","Katja","neue Jungpflanze","Tisch 2","C4",NA
+"2023-04-06 10:01:07","Katja","neue Jungpflanze","Tisch 2","C5",NA
+"2023-04-06 10:01:07","Katja","neue Jungpflanze","Tisch 2","C6",NA
+"2023-04-06 10:01:07","Katja","neue Jungpflanze","Tisch 2","D1",NA
+"2023-04-06 10:01:07","Katja","neue Jungpflanze","Tisch 2","D2",NA
+"2023-04-06 10:01:07","Katja","neue Jungpflanze","Tisch 2","D3",NA
+"2023-04-06 10:01:07","Katja","neue Jungpflanze","Tisch 2","D4",NA
+"2023-04-06 10:01:07","Katja","neue Jungpflanze","Tisch 2","D5",NA
+"2023-04-06 10:07:05","Katja","Braune Blätter","Tisch 1","H4",NA
+"2023-04-06 10:07:05","Katja","Braune Blätter","Tisch 1","H5",NA
+"2023-04-06 10:08:48","Katja","neue Jungpflanze","Tisch 2","E4",NA
+"2023-04-06 10:08:48","Katja","neue Jungpflanze","Tisch 2","E5",NA
+"2023-04-06 10:08:48","Katja","neue Jungpflanze","Tisch 2","E6",NA
+"2023-04-06 10:08:48","Katja","neue Jungpflanze","Tisch 2","E7",NA
+"2023-04-06 10:08:48","Katja","neue Jungpflanze","Tisch 2","E8",NA
+"2023-04-06 10:08:48","Katja","neue Jungpflanze","Tisch 2","F4",NA
+"2023-04-06 10:08:48","Katja","neue Jungpflanze","Tisch 2","F5",NA
+"2023-04-06 10:08:48","Katja","neue Jungpflanze","Tisch 2","F7",NA
+"2023-04-06 10:08:48","Katja","neue Jungpflanze","Tisch 2","F8",NA
+"2023-04-06 10:08:48","Katja","neue Jungpflanze","Tisch 2","F9",NA
+"2023-04-06 10:08:48","Katja","neue Jungpflanze","Tisch 2","G4",NA
+"2023-04-06 10:08:48","Katja","neue Jungpflanze","Tisch 2","G5",NA
+"2023-04-06 10:08:48","Katja","neue Jungpflanze","Tisch 2","G7",NA
+"2023-04-06 10:08:48","Katja","neue Jungpflanze","Tisch 2","G8",NA
+"2023-04-06 10:08:48","Katja","neue Jungpflanze","Tisch 2","G9",NA
+"2023-04-06 10:14:07","Katja","Frassschaden","Tisch 8","A1",NA
+"2023-04-06 10:14:07","Katja","Frassschaden","Tisch 8","A2",NA
+"2023-04-06 10:14:07","Katja","Frassschaden","Tisch 8","A3",NA
+"2023-04-06 10:14:07","Katja","Frassschaden","Tisch 8","B1",NA
+"2023-04-06 10:14:07","Katja","Frassschaden","Tisch 8","B2",NA
+"2023-04-06 10:25:07","Katja","transparente Flecken auf Blättern","Tisch 7","A2",NA
+"2023-04-06 10:25:07","Katja","transparente Flecken auf Blättern","Tisch 7","C4",NA
+"2023-04-06 10:25:26","Katja","Frassschaden","Tisch 7","A4",NA
+"2023-04-06 10:28:04","Katja","Frassschaden","Tisch 6","A2",NA
+"2023-04-06 10:28:04","Katja","Frassschaden","Tisch 6","A3",NA
+"2023-04-06 10:28:04","Katja","Frassschaden","Tisch 6","A6",NA
+"2023-04-06 10:28:04","Katja","Frassschaden","Tisch 6","A9",NA
+"2023-04-06 10:28:04","Katja","Frassschaden","Tisch 6","B4",NA
+"2023-04-06 10:28:04","Katja","Frassschaden","Tisch 6","B5",NA
+"2023-04-06 10:28:04","Katja","Frassschaden","Tisch 6","B9",NA
+"2023-04-06 10:28:04","Katja","Frassschaden","Tisch 6","C2",NA
+"2023-04-06 10:28:31","Katja","Kopf abgerissen","Tisch 6","B6",NA
+"2023-04-06 10:31:33","Katja","Frassschaden","Tisch 5","A1",NA
+"2023-04-06 10:31:33","Katja","Frassschaden","Tisch 5","A4",NA
+"2023-04-06 10:31:33","Katja","Frassschaden","Tisch 5","A5",NA
+"2023-04-06 10:31:33","Katja","Frassschaden","Tisch 5","A6",NA
+"2023-04-06 10:31:33","Katja","Frassschaden","Tisch 5","B2",NA
+"2023-04-06 10:31:33","Katja","Frassschaden","Tisch 5","B3",NA
+"2023-04-06 10:31:33","Katja","Frassschaden","Tisch 5","B4",NA
+"2023-04-06 10:31:33","Katja","Frassschaden","Tisch 5","B5",NA
+"2023-04-06 10:31:33","Katja","Frassschaden","Tisch 5","B6",NA
+"2023-04-06 10:31:33","Katja","Frassschaden","Tisch 5","C1",NA
+"2023-04-06 10:31:33","Katja","Frassschaden","Tisch 5","C2",NA
+"2023-04-06 10:31:33","Katja","Frassschaden","Tisch 5","C3",NA
+"2023-04-06 10:31:33","Katja","Frassschaden","Tisch 5","C5",NA
+"2023-04-06 10:31:33","Katja","Frassschaden","Tisch 5","G1",NA
+"2023-04-06 10:31:33","Katja","Frassschaden","Tisch 5","G3",NA
+"2023-04-06 10:31:33","Katja","Frassschaden","Tisch 5","G5",NA
+"2023-04-06 10:31:33","Katja","Frassschaden","Tisch 5","H4",NA
+"2023-04-06 10:33:50","Katja","Frassschaden","Tisch 6","F1",NA
+"2023-04-06 10:33:50","Katja","Frassschaden","Tisch 6","F2",NA
+"2023-04-06 10:33:50","Katja","Frassschaden","Tisch 6","F3",NA
+"2023-04-06 10:33:50","Katja","Frassschaden","Tisch 6","F4",NA
+"2023-04-06 10:33:50","Katja","Frassschaden","Tisch 6","F5",NA
+"2023-04-06 10:33:50","Katja","Frassschaden","Tisch 6","F6",NA
+"2023-04-06 10:33:50","Katja","Frassschaden","Tisch 6","G1",NA
+"2023-04-06 10:33:50","Katja","Frassschaden","Tisch 6","G2",NA
+"2023-04-06 10:33:50","Katja","Frassschaden","Tisch 6","G3",NA
+"2023-04-06 10:33:50","Katja","Frassschaden","Tisch 6","G4",NA
+"2023-04-06 10:33:50","Katja","Frassschaden","Tisch 6","G5",NA
+"2023-04-06 10:33:50","Katja","Frassschaden","Tisch 6","G6",NA
+"2023-04-06 10:33:50","Katja","Frassschaden","Tisch 6","G8",NA
+"2023-04-06 10:33:50","Katja","Frassschaden","Tisch 6","H1",NA
+"2023-04-06 10:33:50","Katja","Frassschaden","Tisch 6","H2",NA
+"2023-04-06 10:33:50","Katja","Frassschaden","Tisch 6","H4",NA
+"2023-04-06 10:33:50","Katja","Frassschaden","Tisch 6","H7",NA
+"2023-04-06 10:33:50","Katja","Frassschaden","Tisch 6","H9",NA
+"2023-04-06 10:36:47","Katja","Frassschaden","Tisch 7","G2",NA
+"2023-04-06 10:36:47","Katja","Frassschaden","Tisch 7","G3",NA
+"2023-04-06 10:36:47","Katja","Frassschaden","Tisch 7","G5",NA
+"2023-04-06 10:36:47","Katja","Frassschaden","Tisch 7","H4",NA
+"2023-04-06 10:37:21","Katja","transparente Flecken auf Blättern","Tisch 7","",NA
+"2023-04-06 10:38:38","Katja","Frassschaden","Tisch 8","E1",NA
+"2023-04-06 10:38:38","Katja","Frassschaden","Tisch 8","F3",NA
+"2023-04-06 10:42:25","Katja","Verletzung oder Frass?","Tisch 9","A6",NA
+"2023-04-06 10:42:25","Katja","Verletzung oder Frass?","Tisch 9","B7",NA
+"2023-04-06 10:48:06","Katja","transparente Flecken auf den Blättern","Tisch 11","A8",NA
+"2023-04-06 10:48:06","Katja","transparente Flecken auf den Blättern","Tisch 11","A9",NA
+"2023-04-06 10:48:06","Katja","transparente Flecken auf den Blättern","Tisch 11","B7",NA
+"2023-04-06 10:48:06","Katja","transparente Flecken auf den Blättern","Tisch 11","B8",NA
+"2023-04-06 10:48:06","Katja","transparente Flecken auf den Blättern","Tisch 11","E7",NA
+"2023-04-06 10:48:33","Katja","Frassschaden","Tisch 11","B5",NA
+"2023-04-06 10:49:26","Katja","Welke Blätter","Tisch 12","B6",NA
+"2023-04-11 12:21:41","Julian","zurückgebliebene Pflanzen","Tisch 4","D1",NA
+"2023-04-11 12:21:41","Julian","zurückgebliebene Pflanzen","Tisch 4","E1",NA
+"2023-04-11 12:21:41","Julian","zurückgebliebene Pflanzen","Tisch 4","E9",NA
+"2023-04-11 12:21:41","Julian","zurückgebliebene Pflanzen","Tisch 4","F9",NA
+"2023-04-11 12:21:41","Julian","zurückgebliebene Pflanzen","Tisch 4","G9",NA
+"2023-04-11 12:23:06","Julian","Welke Blätter","Tisch 8","B4",NA
+"2023-04-11 12:25:04","Julian","Frassschaden","Tisch 8","A1",NA
+"2023-04-11 12:25:04","Julian","Frassschaden","Tisch 8","A3",NA
+"2023-04-11 12:25:04","Julian","Frassschaden","Tisch 8","B1",NA
+"2023-04-11 12:25:04","Julian","Frassschaden","Tisch 8","B2",NA
+"2023-04-11 12:25:04","Julian","Frassschaden","Tisch 8","E1",NA
+"2023-04-11 12:25:04","Julian","Frassschaden","Tisch 8","F3",NA
+"2023-04-11 12:27:19","Julian","Frassschaden","Tisch 7","A4",NA
+"2023-04-11 12:27:19","Julian","Frassschaden","Tisch 7","G2",NA
+"2023-04-11 12:27:19","Julian","Frassschaden","Tisch 7","G3",NA
+"2023-04-11 12:27:19","Julian","Frassschaden","Tisch 7","H3",NA
+"2023-04-11 12:27:19","Julian","Frassschaden","Tisch 7","H4",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","A2",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","A9",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","B9",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","F1",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","F3",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","F4",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","F5",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","F6",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","G1",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","G2",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","G3",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","G4",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","G5",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","G6",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","G8",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","H1",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","H2",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","H3",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","H4",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","H7",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","H9",NA
+"2023-04-11 12:30:39","Julian","Frassschaden","Tisch 5","A1",NA
+"2023-04-11 12:30:39","Julian","Frassschaden","Tisch 5","A4",NA
+"2023-04-11 12:30:39","Julian","Frassschaden","Tisch 5","A5",NA
+"2023-04-11 12:30:39","Julian","Frassschaden","Tisch 5","A6",NA
+"2023-04-11 12:30:39","Julian","Frassschaden","Tisch 5","B3",NA
+"2023-04-11 12:30:39","Julian","Frassschaden","Tisch 5","B4",NA
+"2023-04-11 12:30:39","Julian","Frassschaden","Tisch 5","B5",NA
+"2023-04-11 12:30:39","Julian","Frassschaden","Tisch 5","B6",NA
+"2023-04-11 12:30:39","Julian","Frassschaden","Tisch 5","C1",NA
+"2023-04-11 12:30:39","Julian","Frassschaden","Tisch 5","C2",NA
+"2023-04-11 12:30:39","Julian","Frassschaden","Tisch 5","C3",NA
+"2023-04-11 12:30:39","Julian","Frassschaden","Tisch 5","G1",NA
+"2023-04-11 12:30:39","Julian","Frassschaden","Tisch 5","G3",NA
+"2023-04-11 12:30:39","Julian","Frassschaden","Tisch 5","G5",NA
+"2023-04-11 12:30:39","Julian","Frassschaden","Tisch 5","G6",NA
+"2023-04-11 12:30:39","Julian","Frassschaden","Tisch 5","H4",NA
+"2023-04-11 12:21:41","Julian","zurückgebliebene Pflanzen","Tisch 4","D1",NA
+"2023-04-11 12:21:41","Julian","zurückgebliebene Pflanzen","Tisch 4","E1",NA
+"2023-04-11 12:21:41","Julian","zurückgebliebene Pflanzen","Tisch 4","E9",NA
+"2023-04-11 12:21:41","Julian","zurückgebliebene Pflanzen","Tisch 4","F9",NA
+"2023-04-11 12:21:41","Julian","zurückgebliebene Pflanzen","Tisch 4","G9",NA
+"2023-04-11 12:23:06","Julian","Welke Blätter","Tisch 8","B4",NA
+"2023-04-11 12:25:04","Julian","Frassschaden","Tisch 8","A1",NA
+"2023-04-11 12:25:04","Julian","Frassschaden","Tisch 8","A3",NA
+"2023-04-11 12:25:04","Julian","Frassschaden","Tisch 8","B1",NA
+"2023-04-11 12:25:04","Julian","Frassschaden","Tisch 8","B2",NA
+"2023-04-11 12:25:04","Julian","Frassschaden","Tisch 8","E1",NA
+"2023-04-11 12:25:04","Julian","Frassschaden","Tisch 8","F3",NA
+"2023-04-11 12:27:19","Julian","Frassschaden","Tisch 7","A4",NA
+"2023-04-11 12:27:19","Julian","Frassschaden","Tisch 7","G2",NA
+"2023-04-11 12:27:19","Julian","Frassschaden","Tisch 7","G3",NA
+"2023-04-11 12:27:19","Julian","Frassschaden","Tisch 7","H3",NA
+"2023-04-11 12:27:19","Julian","Frassschaden","Tisch 7","H4",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","A2",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","A9",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","B9",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","F1",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","F3",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","F4",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","F5",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","F6",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","G1",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","G2",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","G3",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","G4",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","G5",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","G6",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","G8",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","H1",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","H2",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","H3",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","H4",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","H7",NA
+"2023-04-11 12:29:13","Julian","Frassschaden","Tisch 6","H9",NA
+"2023-04-11 12:30:39","Julian","Frassschaden","Tisch 5","A1",NA
+"2023-04-11 12:30:39","Julian","Frassschaden","Tisch 5","A4",NA
+"2023-04-11 12:30:39","Julian","Frassschaden","Tisch 5","A5",NA
+"2023-04-11 12:30:39","Julian","Frassschaden","Tisch 5","A6",NA
+"2023-04-11 12:30:39","Julian","Frassschaden","Tisch 5","B3",NA
+"2023-04-11 12:30:39","Julian","Frassschaden","Tisch 5","B4",NA
+"2023-04-11 12:30:39","Julian","Frassschaden","Tisch 5","B5",NA
+"2023-04-11 12:30:39","Julian","Frassschaden","Tisch 5","B6",NA
+"2023-04-11 12:30:39","Julian","Frassschaden","Tisch 5","C1",NA
+"2023-04-11 12:30:39","Julian","Frassschaden","Tisch 5","C2",NA
+"2023-04-11 12:30:39","Julian","Frassschaden","Tisch 5","C3",NA
+"2023-04-11 12:30:39","Julian","Frassschaden","Tisch 5","G1",NA
+"2023-04-11 12:30:39","Julian","Frassschaden","Tisch 5","G3",NA
+"2023-04-11 12:30:39","Julian","Frassschaden","Tisch 5","G5",NA
+"2023-04-11 12:30:39","Julian","Frassschaden","Tisch 5","G6",NA
+"2023-04-11 12:30:39","Julian","Frassschaden","Tisch 5","H4",NA
+"2023-04-13 17:16:54","Chloé","zurückgebliebene Pflanzen","Tisch 3","D1",""
+"2023-04-13 17:21:06","Chloé","zurückgebliebene Pflanzen","Tisch 4","E1",""
+"2023-04-13 17:21:06","Chloé","zurückgebliebene Pflanzen","Tisch 4","E2",""
+"2023-04-13 17:21:06","Chloé","zurückgebliebene Pflanzen","Tisch 4","E9",""
+"2023-04-13 17:21:06","Chloé","zurückgebliebene Pflanzen","Tisch 4","F9",""
+"2023-04-13 17:21:06","Chloé","zurückgebliebene Pflanzen","Tisch 4","G1",""
+"2023-04-13 17:24:55","Chloé","Frassschaden","Tisch 8","A1",""
+"2023-04-13 17:24:55","Chloé","Frassschaden","Tisch 8","A3",""
+"2023-04-13 17:24:55","Chloé","Frassschaden","Tisch 8","B1",""
+"2023-04-13 17:24:55","Chloé","Frassschaden","Tisch 8","B2",""
+"2023-04-13 17:24:55","Chloé","Frassschaden","Tisch 8","E1",""
+"2023-04-13 17:24:55","Chloé","Frassschaden","Tisch 8","F3",""
+"2023-04-13 17:29:47","Chloé","Frassschaden","Tisch 7","A4",""
+"2023-04-13 17:29:47","Chloé","Frassschaden","Tisch 7","G2",""
+"2023-04-13 17:29:47","Chloé","Frassschaden","Tisch 7","G3",""
+"2023-04-13 17:29:47","Chloé","Frassschaden","Tisch 7","G5",""
+"2023-04-13 17:29:47","Chloé","Frassschaden","Tisch 7","H4",""
+"2023-04-13 17:33:57","Chloé","Flecken auf den Blättern","Tisch 7","A1",""
+"2023-04-13 17:33:57","Chloé","Flecken auf den Blättern","Tisch 7","A2",""
+"2023-04-13 17:33:57","Chloé","Flecken auf den Blättern","Tisch 7","A5",""
+"2023-04-13 17:33:57","Chloé","Flecken auf den Blättern","Tisch 7","B4",""
+"2023-04-13 17:33:57","Chloé","Flecken auf den Blättern","Tisch 7","B5",""
+"2023-04-13 17:33:57","Chloé","Flecken auf den Blättern","Tisch 7","G6",""
+"2023-04-13 17:33:57","Chloé","Flecken auf den Blättern","Tisch 7","H1",""
+"2023-04-13 17:35:06","Chloé","Welke Blätter","Tisch 6","H1",""
+"2023-04-13 17:39:09","Chloé","Frassschaden","Tisch 6","A2",""
+"2023-04-13 17:39:09","Chloé","Frassschaden","Tisch 6","A3",""
+"2023-04-13 17:39:09","Chloé","Frassschaden","Tisch 6","A5",""
+"2023-04-13 17:39:09","Chloé","Frassschaden","Tisch 6","A6",""
+"2023-04-13 17:39:09","Chloé","Frassschaden","Tisch 6","B4",""
+"2023-04-13 17:39:09","Chloé","Frassschaden","Tisch 6","B5",""
+"2023-04-13 17:39:09","Chloé","Frassschaden","Tisch 6","F1",""
+"2023-04-13 17:39:09","Chloé","Frassschaden","Tisch 6","F2",""
+"2023-04-13 17:39:09","Chloé","Frassschaden","Tisch 6","F3",""
+"2023-04-13 17:39:09","Chloé","Frassschaden","Tisch 6","F4",""
+"2023-04-13 17:39:09","Chloé","Frassschaden","Tisch 6","F5",""
+"2023-04-13 17:39:09","Chloé","Frassschaden","Tisch 6","F6",""
+"2023-04-13 17:39:09","Chloé","Frassschaden","Tisch 6","G1",""
+"2023-04-13 17:39:09","Chloé","Frassschaden","Tisch 6","G2",""
+"2023-04-13 17:39:09","Chloé","Frassschaden","Tisch 6","G3",""
+"2023-04-13 17:39:09","Chloé","Frassschaden","Tisch 6","G4",""
+"2023-04-13 17:39:09","Chloé","Frassschaden","Tisch 6","G5",""
+"2023-04-13 17:39:09","Chloé","Frassschaden","Tisch 6","G6",""
+"2023-04-13 17:39:09","Chloé","Frassschaden","Tisch 6","G8",""
+"2023-04-13 17:39:09","Chloé","Frassschaden","Tisch 6","H1",""
+"2023-04-13 17:39:09","Chloé","Frassschaden","Tisch 6","H2",""
+"2023-04-13 17:39:09","Chloé","Frassschaden","Tisch 6","H4",""
+"2023-04-13 17:39:09","Chloé","Frassschaden","Tisch 6","H7",""
+"2023-04-13 17:39:09","Chloé","Frassschaden","Tisch 6","H9",""
+"2023-04-13 17:42:23","Chloé","Flecken auf den Blättern","Tisch 6","A5",""
+"2023-04-13 17:42:33","Chloé","Welke Blätter","Tisch 6","A4",""
+"2023-04-13 17:47:44","Chloé","Frassschaden","Tisch 5","A1",""
+"2023-04-13 17:47:44","Chloé","Frassschaden","Tisch 5","A5",""
+"2023-04-13 17:47:44","Chloé","Frassschaden","Tisch 5","A6",""
+"2023-04-13 17:47:44","Chloé","Frassschaden","Tisch 5","B2",""
+"2023-04-13 17:47:44","Chloé","Frassschaden","Tisch 5","B3",""
+"2023-04-13 17:47:44","Chloé","Frassschaden","Tisch 5","B4",""
+"2023-04-13 17:47:44","Chloé","Frassschaden","Tisch 5","B5",""
+"2023-04-13 17:47:44","Chloé","Frassschaden","Tisch 5","B6",""
+"2023-04-13 17:47:44","Chloé","Frassschaden","Tisch 5","C1",""
+"2023-04-13 17:47:44","Chloé","Frassschaden","Tisch 5","C2",""
+"2023-04-13 17:47:44","Chloé","Frassschaden","Tisch 5","C3",""
+"2023-04-13 17:47:44","Chloé","Frassschaden","Tisch 5","C5",""
+"2023-04-13 17:47:44","Chloé","Frassschaden","Tisch 5","G1",""
+"2023-04-13 17:47:44","Chloé","Frassschaden","Tisch 5","G3",""
+"2023-04-13 17:47:44","Chloé","Frassschaden","Tisch 5","G5",""
+"2023-04-13 17:47:44","Chloé","Frassschaden","Tisch 5","H4",""
+"2023-04-13 17:49:27","Chloé","Flecken auf den Blättern","Tisch 5","B3",""
+"2023-04-13 17:49:27","Chloé","Flecken auf den Blättern","Tisch 5","H1",""
+"2023-04-13 17:49:27","Chloé","Flecken auf den Blättern","Tisch 5","H2",""
+"2023-04-13 17:52:24","Chloé","Flecken auf den Blättern","Tisch 11","E7",""
+"2023-04-13 17:54:20","Chloé","Verkrüppelte Blätter","Tisch 11","A1",""
+"2023-04-13 17:54:20","Chloé","Verkrüppelte Blätter","Tisch 11","A2",""
+"2023-04-13 17:54:20","Chloé","Verkrüppelte Blätter","Tisch 11","A4",""
+"2023-04-13 17:54:20","Chloé","Verkrüppelte Blätter","Tisch 11","A7",""
+"2023-04-13 17:54:20","Chloé","Verkrüppelte Blätter","Tisch 11","A8",""
+"2023-04-13 17:54:20","Chloé","Verkrüppelte Blätter","Tisch 11","B8",""
+"2023-04-13 17:54:20","Chloé","Verkrüppelte Blätter","Tisch 11","B9",""
+"2023-04-13 17:54:20","Chloé","Verkrüppelte Blätter","Tisch 11","D2",""
+"2023-04-13 17:54:21","Chloé","Verkrüppelte Blätter","Tisch 11","A1",""
+"2023-04-13 17:54:21","Chloé","Verkrüppelte Blätter","Tisch 11","A2",""
+"2023-04-13 17:54:21","Chloé","Verkrüppelte Blätter","Tisch 11","A4",""
+"2023-04-13 17:54:21","Chloé","Verkrüppelte Blätter","Tisch 11","A7",""
+"2023-04-13 17:54:21","Chloé","Verkrüppelte Blätter","Tisch 11","A8",""
+"2023-04-13 17:54:21","Chloé","Verkrüppelte Blätter","Tisch 11","B8",""
+"2023-04-13 17:54:21","Chloé","Verkrüppelte Blätter","Tisch 11","B9",""
+"2023-04-13 17:54:21","Chloé","Verkrüppelte Blätter","Tisch 11","D2",""
+"2023-04-13 17:54:58","Chloé","Frassschaden","Tisch 11","B5",""
+"2023-04-13 17:55:45","Chloé","Verkrüppelte Blätter","Tisch 12","A3",""
+"2023-04-13 17:55:45","Chloé","Verkrüppelte Blätter","Tisch 12","A6",""
+"2023-04-13 17:55:45","Chloé","Verkrüppelte Blätter","Tisch 12","B5",""
+"2023-04-13 17:56:09","Chloé","zurückgebliebene Pflanzen","Tisch 12","B4",""
+"2023-04-13 17:56:09","Chloé","zurückgebliebene Pflanzen","Tisch 12","B6",""
+"2023-04-19 12:44:24","Julian","Gecknickt","Tisch 1","B6",""
+"2023-04-19 12:46:14","Julian","Welke Blätter","Tisch 2","D7",""
+"2023-04-19 12:46:14","Julian","Welke Blätter","Tisch 2","E3",""
+"2023-04-19 12:55:03","Julian","Welke Blätter","Tisch 3","E9",""
+"2023-04-19 12:56:50","Julian","Welke Blätter","Tisch 7","H3",""
+"2023-04-19 12:57:31","Julian","Welke Blätter","Tisch 6","A5",""
+"2023-04-19 12:57:31","Julian","Welke Blätter","Tisch 6","A8",""

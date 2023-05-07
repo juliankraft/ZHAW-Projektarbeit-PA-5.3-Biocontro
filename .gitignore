@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.vscode
+files/
+output/
+create_db.sql
+klimadaten.ipynb
