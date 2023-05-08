@@ -1,0 +1,221 @@
+{
+    "table": [
+        {
+            "disp": "Tisch 1",
+            "disp_short": "T1",
+            "rows": 7,
+            "cols": 8
+        },
+        {
+            "disp": "Tisch 2",
+            "disp_short": "T2",
+            "rows": 9,
+            "cols": 8
+        },
+        {
+            "disp": "Tisch 3",
+            "disp_short": "T3",
+            "rows": 9,
+            "cols": 8
+        },
+        {
+            "disp": "Tisch 4",
+            "disp_short": "T4",
+            "rows": 9,
+            "cols": 8
+        },
+        {
+            "disp": "Tisch 5",
+            "disp_short": "T5",
+            "rows": 6,
+            "cols": 9
+        },
+        {
+            "disp": "Tisch 6",
+            "disp_short": "T6",
+            "rows": 9,
+            "cols": 8
+        },
+        {
+            "disp": "Tisch 7",
+            "disp_short": "T7",
+            "rows": 6,
+            "cols": 9
+        },
+        {
+            "disp": "Tisch 8",
+            "disp_short": "T8",
+            "rows": 5,
+            "cols": 6
+        },
+        {
+            "disp": "Tisch 9",
+            "disp_short": "T9",
+            "rows": 7,
+            "cols": 8
+        },
+        {
+            "disp": "Tisch 10",
+            "disp_short": "T10",
+            "rows": 7,
+            "cols": 8
+        },
+        {
+            "disp": "Tisch 11",
+            "disp_short": "T11",
+            "rows": 9,
+            "cols": 6
+        },
+        {
+            "disp": "Tisch 12",
+            "disp_short": "T12",
+            "rows": 7,
+            "cols": 8
+        }
+    ],
+    "todo": {
+        "Blattäuse an Salaten": {
+            "ref": [
+                "r1"
+            ],
+            "art": [
+                "Blattläuse"
+            ],
+            "good_or_bad": [
+                "Schädling"
+            ],
+            "text": [
+                "Blattläuse zählen wie gewohnt."
+            ],
+            "category": [
+                "0",
+                "1 - 2",
+                "3 - 5",
+                "6 - 10",
+                "11 - 20",
+                "21 - 50",
+                "50 <"
+            ],
+            "VIP": [
+                "T2 - B1",
+                "T2 - A2",
+                "T2 - A5",
+                "T2 - D7",
+                "T2 - C9",
+                "T2 - H8",
+                "T2 - F6",
+                "T2 - G3",
+                "T2 - E2"
+            ]
+        },
+        "Spannerraupe an Tomaten": {
+            "ref": [
+                "r2"
+            ],
+            "art": [
+                "Spannerraupe"
+            ],
+            "good_or_bad": [
+                "Schädling"
+            ],
+            "text": [
+                "Zähle die Spannerraupen an den markierten Tomatenpflanzen."
+            ],
+            "category": [
+                "0",
+                "1 - 2",
+                "3 - 5",
+                "6 - 10",
+                "11 - 20",
+                "21 - 50",
+                "50 <"
+            ],
+            "VIP": [
+                "T8 - C2",
+                "T8 - B3",
+                "T8 - A5",
+                "T7 - D1",
+                "T7 - A3",
+                "T7 - B5",
+                "T7 - C6",
+                "T6 - D2",
+                "T6 - C6",
+                "T6 - A7",
+                "T6 - B8",
+                "T5 - C2",
+                "T5 - D3",
+                "T5 - A4",
+                "T5 - E5",
+                "T5 - B6",
+                "T5 - F6",
+                "T5 - H4",
+                "T5 - I3",
+                "T5 - G1",
+                "T6 - G9",
+                "T6 - E5",
+                "T6 - F4",
+                "T6 - H3",
+                "T6 - H1",
+                "T7 - F6",
+                "T7 - I4",
+                "T7 - E4",
+                "T7 - H2",
+                "T7 - G1",
+                "T8 - D5",
+                "T8 - F4",
+                "T8 - E1"
+            ]
+        },
+        "Trips bei den Aubergienen": {
+            "ref": [
+                "r3"
+            ],
+            "art": [
+                "Trips"
+            ],
+            "good_or_bad": [
+                "Schädling"
+            ],
+            "text": [
+                "Bei den Trips zählen wir die befallenen Blätter und geben sie in % an."
+            ],
+            "category": [
+                "0",
+                "bis 25",
+                "bis 50",
+                "bis 75",
+                "bis 100"
+            ],
+            "VIP": [
+                "T9 - A2",
+                "T9 - D3",
+                "T9 - C4",
+                "T9 - B6",
+                "T9 - G7",
+                "T9 - H6",
+                "T9 - E5",
+                "T9 - F1"
+            ]
+        }
+    },
+    "issue": [
+        "Frassschaden",
+        "faule Pflanzen",
+        "dürre Pflanzen",
+        "Grauschimmel",
+        "Blütenendfäule",
+        "Kraut- und Knollenfäule",
+        "Samtfleckenkrankheit",
+        "Tomaten-Braunfäule",
+        "Echte Mehltaupilze",
+        "eingerollte Blätter",
+        "Gelbe Blätter",
+        "Braune Blätter",
+        "Welke Blätter",
+        "Verkrüppelte Blätter",
+        "Flecken auf den Blättern",
+        "Blattverlust oder Blattfall",
+        "Verfärbungen an Stängeln oder Zweigen",
+        "-- Hinzufügen --"
+    ]
+}
