@@ -6,4 +6,4 @@ Das File monitoring_app.R zusammen mit dem Inhalt des Ordners resources ist der 
 ## Daten
 Unter data sind alle Rohdaten abgelegt, die für diese Arbeit erhoben wurden. Eine Minimale Aufbereitung und Bereinigung hat bereits stattgefunden. Die Monitoring Daten wurden aus der SQL Datenbank exportiert und bereinigt und die Loggerdaten wurden mittels converter_loggerdata.R in die hier verfügbare Form gebracht und zusammengefasst. 
 ## Datenauswertung
-Das Jupyter Notebook datenauswertung.ipynb beinhaltet den Code für all die grafischen und statistischen Auswertungen die gemacht wurden.
+Das Jupyter Notebook auswertung.ipynb beinhaltet den Code für all die grafischen und statistischen Auswertungen die gemacht wurden.
